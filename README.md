@@ -1,13 +1,13 @@
 ### About me
 
+- 🌱 I’m currently learning: Django Channels
+
 # Main Tech Stack:
 
 - Vue.js
 - Django
 - SASS
 - Postgres
-
-- 🌱 I’m currently learning: Django Channels
 
 
 <!--
