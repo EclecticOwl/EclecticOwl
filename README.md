@@ -1,4 +1,14 @@
-### Hi there 👋
+### About me
+
+# Main Tech Stack:
+
+- Vue.js
+- Django
+- SASS
+- Postgres
+
+- 🌱 I’m currently learning: Django Channels
+
 
 <!--
 **EclecticOwl/EclecticOwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
