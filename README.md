@@ -1,6 +1,6 @@
 ### About me
 
-- 🌱 I’m currently learning: Django Channels
+- 🌱 I’m currently learning: Django Channels/Async
 
 # Main Tech Stack:
 
