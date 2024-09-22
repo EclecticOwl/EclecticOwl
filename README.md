@@ -1,13 +1,13 @@
 ### About me
 
-- 🌱 I’m currently learning: Django Channels/Async
+- 🌱 I’m currently learning: Where ever the wind takes me.
 
 # Main Tech Stack:
 
-- Vue.js
-- Django
-- SASS
+- Python
+- Shell
 - Postgres
+- Godot
 
 
 You can check out my shell scripts here: [Shell Scripts](https://github.com/EclecticOwl/shell-scripts)
