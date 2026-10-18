@@ -5,6 +5,7 @@
 # Main Tech Stack:
 
 - Python
+- Vue
 - Shell
 - Postgres
 - Godot
